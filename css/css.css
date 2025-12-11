@@ -1,0 +1,123 @@
+TD.td1 { 
+color : #ffffff;
+font : 12px  Tahoma, Arial, sans-serif;
+text-align     : justify;
+padding-left   : 20px;
+padding-right  : 20px;
+padding-top    : 4px;
+padding-bottom : 4px;
+}
+TD.menu1 { 
+color : #ffffff;
+font : 14px  Tahoma, Arial, sans-serif;
+padding-left   : 4px;
+padding-right  : 4px;
+padding-top    : 4px;
+padding-bottom : 4px;
+}
+.big {
+color : #000000;
+font : 32px Verdana, Arial, sans-serif;
+background-color : transparent;
+padding-left   : 10px;
+padding-right  : 10px;
+padding-top    : 0px;
+padding-bottom : 0px;
+}
+
+.mono {
+color : black;
+font : 12px Arial, Tahoma, sans-serif;
+background-color : transparent;
+padding-left   : 4px;
+padding-right  : 4px;
+padding-top    : 0px;
+padding-bottom : 0px;
+}
+
+.mono18 {
+color : white;
+font : 18px Arial, Tahoma, sans-serif;
+background-color : transparent;
+padding-left   : 8px;
+padding-right  : 8px;
+padding-top    : 0px;
+padding-bottom : 0px;
+}
+
+a { 
+color : #FFA500;
+font : bold 12px Arial, Tahoma, sans-serif;
+text-decoration : underline;	
+background-color : transparent;
+}
+
+a.top { 
+color : #000000;
+font : 12px Arial, Tahoma, sans-serif;
+text-decoration : underline;
+background-color : transparent;
+}
+a.top:visited { 
+color : #5A5A5A;
+font : 12px Arial, Tahoma, sans-serif;
+text-decoration : underline;
+background-color : transparent;
+}
+a.top:hover { 
+color : #000000;
+font : 12px Arial, Tahoma, sans-serif;
+text-decoration : none;
+background-color : transparent;
+}
+
+a.m { 
+color : #FFA500;
+font : bold 12px  Tahoma, Arial, sans-serif;
+text-decoration : none;
+background-color : transparent;
+}
+a.m:visited { 
+color : #FFA500;
+font : bold 12px  Tahoma, Arial,  sans-serif;
+text-decoration : none;
+background-color : transparent;
+}
+a.m:hover { 
+color : #FFA500;
+font : bold 12px  Tahoma, Arial,  sans-serif;
+text-decoration : none;
+background-color : transparent;
+}
+
+a.white { 
+color : #ffffff;
+font : bold 14px Arial, Tahoma, sans-serif;
+text-decoration : none;
+background-color : transparent;
+}
+a.white:visited { 
+color : #ffffff;
+font : bold 14px Arial, Tahoma, sans-serif;
+text-decoration : none;
+background-color : transparent;
+}
+a.white:hover { 
+color : red;
+font : bold 14px Arial, Tahoma, sans-serif;
+text-decoration : none;
+background-color : transparent;
+}
+
+a:visited { 
+color : #ffc046;
+font : bold 12px Arial, Tahoma, sans-serif;
+text-decoration : underline;
+background-color : transparent;
+}
+a:hover { 
+color : #ffffff;
+font : bold 12px Arial, Tahoma, sans-serif;
+text-decoration : none;
+background-color : transparent;
+}
