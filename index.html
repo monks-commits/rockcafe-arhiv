@@ -1,155 +1,66 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-    <meta charset="utf-8">
-    <title>Днепропетровское Рок Кафе 2001–2021</title>
+    <meta charset="windows-1251">
+    <title>Rock-Cafe — Long Live Rock'n'Roll</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- базовые мета-описания, можешь оставить/дополнить -->
-    <meta name="description" content="Днепропетровское Рок Кафе — легендарное место рок-культуры Днепра (2001–2021). Архивный сайт.">
-    <meta name="keywords" content="rock cafe, rock'n'roll, hard rock, jazz, Днепропетровское рок кафе, рок-кафе, Днепр">
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            background: #000000;
+            color: #ffffff;
+            font-family: Arial, Helvetica, sans-serif;
+        }
 
-    <!-- стили старого сайта -->
-    <link rel="stylesheet" type="text/css" href="css/css.css">
+        .wrapper {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+
+        .logo {
+            max-width: 90vw;
+            max-height: 70vh;
+        }
+
+        .btn-enter {
+            margin-top: 30px;
+            padding: 12px 32px;
+            border: 2px solid #FFA500;
+            color: #FFA500;
+            text-decoration: none;
+            font-size: 18px;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+        }
+
+        .btn-enter:hover {
+            background: #FFA500;
+            color: #000000;
+        }
+
+        .subtitle {
+            margin-top: 10px;
+            font-size: 14px;
+            color: #c0c0c0;
+        }
+    </style>
 </head>
+<body>
+    <div class="wrapper">
+        <!-- Орёл -->
+        <img src="img/rc.jpg" alt="Rock-Cafe — Long Live Rock'n'Roll" class="logo">
 
-<body topmargin="0" leftmargin="0" text="#c9c9c9" bgcolor="#000000">
+        <!-- Кнопка входа в основное меню -->
+        <a href="index1.php" class="btn-enter">Войти на сайт</a>
 
-<a name="top"></a>
-
-<table width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
-
-    <!-- 1-я строка: шапка + большой орёл -->
-    <tr>
-        <td width="200" height="75" background="img/guitar-top.gif">
-            <img src="img/zero.gif" alt="" width="200" height="75" border="0">
-        </td>
-
-        <!-- вместо старого коллажа с орлом вставляем одну целую картинку -->
-        <td width="100%" height="75" background="img/keyb1.gif">
-            <table width="100%" height="75" cellspacing="0" cellpadding="0" border="0">
-                <tr>
-                    <td align="center">
-                        <!-- СЮДА ПОДСТАВЬ ЛЮБУЮ ЦЕЛУЮ КАРТИНКУ ОРЛА -->
-                        <img src="img/1/eagle-full.jpg" alt="Rock Cafe" width="443" height="166" border="0">
-                    </td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-
-    <!-- тонкие полоски-границы сверху/снизу (как было в index1.php) -->
-    <tr><td colspan="2" height="1" bgcolor="#000000"><img src="img/zero.gif" alt="" width="1" height="1"></td></tr>
-    <tr><td colspan="2" height="1" bgcolor="#FFA500"><img src="img/zero.gif" alt="" width="1" height="1"></td></tr>
-    <tr><td colspan="2" height="1" bgcolor="#000000"><img src="img/zero.gif" alt="" width="1" height="1"></td></tr>
-
-    <!-- полоска с адресом -->
-    <tr>
-        <td colspan="2" height="20" bgcolor="#FFA500">
-            <table width="100%" cellspacing="0" cellpadding="0" border="0">
-                <tr>
-                    <td align="center" width="200">
-                        <span class="m" style="color:#000000;">www.rock-cafe.dp.ua</span>
-                    </td>
-                    <td align="center">&nbsp;</td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-
-    <tr><td colspan="2" height="1" bgcolor="#000000"><img src="img/zero.gif" alt="" width="1" height="1"></td></tr>
-    <tr><td colspan="2" height="1" bgcolor="#FFA500"><img src="img/zero.gif" alt="" width="1" height="1"></td></tr>
-
-    <!-- Дальше идёт НИЖНИЙ БЛОК: слева меню, справа контент -->
-
-    <tr>
-
-        <!-- ЛЕВАЯ КОЛОНКА (меню) — это кусок из index1.php, но без PHP -->
-        <td width="200" valign="top" background="img/back-left.gif">
-
-            <table width="200" cellspacing="0" cellpadding="0" border="0">
-                <tr>
-                    <td width="200" height="509" align="center" valign="top" background="img/guitar-bottom.gif">
-
-                        <!-- меню (упрощённо, можно дополнять) -->
-                        <table width="200" cellspacing="3" cellpadding="1" border="0" background="img/back-left.gif">
-                            <tr bgcolor="#000000">
-                                <td width="1" bgcolor="white"><img src="img/zero.gif" alt="" width="1" height="1"></td>
-                                <td onclick="location.href='about.html'" onmouseover="this.style.backgroundColor='#111';"
-                                    onmouseout="this.style.backgroundColor='#000';">
-                                    <a class="m" href="about.html">&nbsp;О нашем «Рок-Кафе»</a>
-                                </td>
-                            </tr>
-                            <tr bgcolor="#000000">
-                                <td width="1" bgcolor="white"><img src="img/zero.gif" alt="" width="1" height="1"></td>
-                                <td onclick="location.href='afisha.html'" onmouseover="this.style.backgroundColor='#111';"
-                                    onmouseout="this.style.backgroundColor='#000';">
-                                    <a class="m" href="afisha.html">&nbsp;Афиша (архив)</a>
-                                </td>
-                            </tr>
-                            <tr bgcolor="#000000">
-                                <td width="1" bgcolor="white"><img src="img/zero.gif" alt="" width="1" height="1"></td>
-                                <td onclick="location.href='photo.html'" onmouseover="this.style.backgroundColor='#111';"
-                                    onmouseout="this.style.backgroundColor='#000';">
-                                    <a class="m" href="photo.html">&nbsp;Фотогалерея</a>
-                                </td>
-                            </tr>
-                            <!-- остальные пункты из старого меню можно добавить сюда по образцу -->
-                            <tr bgcolor="#000000">
-                                <td width="1" height="1" bgcolor="orange" colspan="2">
-                                    <img src="img/zero.gif" alt="" width="1" height="1">
-                                </td>
-                            </tr>
-                        </table>
-
-                        <img src="img/zero.gif" alt="" width="200" height="1">
-
-                    </td>
-                </tr>
-            </table>
-        </td>
-
-        <!-- ПРАВАЯ КОЛОНКА — СТАТИЧЕСКИЙ КОНТЕНТ ВМЕСТО PHP -->
-        <td width="100%" valign="top">
-
-            <table width="100%" cellspacing="0" cellpadding="0" border="0">
-                <tr>
-                    <td width="2" bgcolor="orange"><img src="img/zero.gif" alt="" width="2" height="1"></td>
-                    <td width="2" bgcolor="black"><img src="img/zero.gif" alt="" width="2" height="1"></td>
-
-                    <td width="100%" valign="top" class="td1" style="padding:20px;">
-
-                        <!-- РАНЬШЕ ЗДЕСЬ БЫЛ PHP-ИНКЛЮД ABOUT-CONTENT.PHP.
-                             ТЕПЕРЬ ДЕЛАЕМ СТАТИЧЕСКИЙ ТЕКСТ. -->
-
-                        <h1>Днепропетровское Рок Кафе (2001–2021)</h1>
-
-                        <p>Это архивный сайт легендарного «Рок-Кафе» на Набережной Победы в Днепре. 
-                        Здесь мы собираем афиши, фотографии, истории и музыку, связанную с двадцатилетней историей клуба.</p>
-
-                        <p>Проект сделан для того, чтобы сохранить атмосферу тех лет — первые концерты, 
-                        постоянных гостей, случайные ночи, когда рок звучал громче будней.</p>
-
-                        <p>В ближайшее время здесь появятся:
-                            <ul>
-                                <li>история всех локаций клуба;</li>
-                                <li>фотоархив и афиши;</li>
-                                <li>воспоминания музыкантов и гостей;</li>
-                                <li>музыкальное меню тех лет.</li>
-                            </ul>
-                        </p>
-
-                        <p>2026 год — юбилейный для Рок-Кафе. 
-                        Сайт будет постепенно пополняться материалами, а покамест — добро пожаловать вспомнить, как это было.</p>
-
-                    </td>
-                </tr>
-            </table>
-
-        </td>
-    </tr>
-
-    <!-- подвал можно перенести из index1.php, если хочешь -->
-</table>
-
+        <div class="subtitle">Днепропетровское Рок Кафе • 2001–2011</div>
+    </div>
 </body>
 </html>
