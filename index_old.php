@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<html><head><title>Rock and Roll, Rock-Cafe,  Рок-кафе, Днепропетровск</title>
-<META NAME="keywords" CONTENT="music,rock and roll,rock'n'roll,rock,rock music,jazz,pop music,hard rock,art rock,punk rock,heavy metal,country,soul,blues,disco,reggey,рок-кафе,рок,рок-музыка,музыка,рокер,рок-н-ролл,хард-рок,арт-рок,панк-рок,кантри,джаз,поп,диско,соул,блюз,регги">
-<META NAME="description" CONTENT="Рок-кафе, Днепропетровск - Long live rock'n roll!">
+<html><head><title>Rock and Roll, Rock-Cafe,  ГђГ®ГЄ-ГЄГ ГґГҐ, Г„Г­ГҐГЇГ°Г®ГЇГҐГІГ°Г®ГўГ±ГЄ</title>
+<META NAME="keywords" CONTENT="music,rock and roll,rock'n'roll,rock,rock music,jazz,pop music,hard rock,art rock,punk rock,heavy metal,country,soul,blues,disco,reggey,Г°Г®ГЄ-ГЄГ ГґГҐ,Г°Г®ГЄ,Г°Г®ГЄ-Г¬ГіГ§Г»ГЄГ ,Г¬ГіГ§Г»ГЄГ ,Г°Г®ГЄГҐГ°,Г°Г®ГЄ-Г­-Г°Г®Г«Г«,ГµГ Г°Г¤-Г°Г®ГЄ,Г Г°ГІ-Г°Г®ГЄ,ГЇГ Г­ГЄ-Г°Г®ГЄ,ГЄГ Г­ГІГ°ГЁ,Г¤Г¦Г Г§,ГЇГ®ГЇ,Г¤ГЁГ±ГЄГ®,Г±Г®ГіГ«,ГЎГ«ГѕГ§,Г°ГҐГЈГЈГЁ">
+<META NAME="description" CONTENT="ГђГ®ГЄ-ГЄГ ГґГҐ, Г„Г­ГҐГЇГ°Г®ГЇГҐГІГ°Г®ГўГ±ГЄ - Long live rock'n roll!">
 <META HTTP-EQUIV="content-type" CONTENT="text/html; charset=windows-1251">
 <META HTTP-EQUIV="cache-control" CONTENT="no-cache, must-revalidate">
 <META HTTP-EQUIV="pragma" CONTENT="no-cache">
@@ -14,7 +14,7 @@
 <meta name="document-classification" content="Music">
 <meta name="document-rating" content="General">
 <meta name="document-distribution" content="Global">
-<meta name="some" content="Rock and Roll, рок, хеви, хард, арт, рок-н-ролл, рокабилли, джаз, кантри, фолк, диско, скиффл, соул, ритм-енд-блюз, блюз, поп">
+<meta name="some" content="Rock and Roll, Г°Г®ГЄ, ГµГҐГўГЁ, ГµГ Г°Г¤, Г Г°ГІ, Г°Г®ГЄ-Г­-Г°Г®Г«Г«, Г°Г®ГЄГ ГЎГЁГ«Г«ГЁ, Г¤Г¦Г Г§, ГЄГ Г­ГІГ°ГЁ, ГґГ®Г«ГЄ, Г¤ГЁГ±ГЄГ®, Г±ГЄГЁГґГґГ«, Г±Г®ГіГ«, Г°ГЁГІГ¬-ГҐГ­Г¤-ГЎГ«ГѕГ§, ГЎГ«ГѕГ§, ГЇГ®ГЇ">
 <link rel="stylesheet" type="text/css" href="css/css.css">
 </head>
 <body leftmargin=0 topmargin=0 bgcolor=#000000 text=#ffffff>
@@ -64,7 +64,7 @@ if(js>11)d.write('--'+'>')//--></script><!--/COUNTER-->
 href="http://top.mail.ru/jump?from=523924"><img
 src="http://top.list.ru/counter?id=523924;t=47;l=1"
 border=0 height=31 width=88
-alt="Рейтинг@Mail.ru"></a><!--/LOGO-->
+alt="ГђГҐГ©ГІГЁГ­ГЈ@Mail.ru"></a><!--/LOGO-->
 </center>
 
 
@@ -76,15 +76,15 @@ alt="Рейтинг@Mail.ru"></a><!--/LOGO-->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-огнестойкий <a href="http://www.mgrant.ru/" target="_blank" 
-title="сейф">сейф</a> купить |
+Г®ГЈГ­ГҐГ±ГІГ®Г©ГЄГЁГ© <a href="http://www.mgrant.ru/" target="_blank" 
+title="Г±ГҐГ©Гґ">Г±ГҐГ©Гґ</a> ГЄГіГЇГЁГІГј |
 
-бронировать <a title="гостиницы Москвы" href="http://www.liogrand.ru/" target="_blank" >гостиницы Москвы</a> цены |
+ГЎГ°Г®Г­ГЁГ°Г®ГўГ ГІГј <a title="ГЈГ®Г±ГІГЁГ­ГЁГ¶Г» ГЊГ®Г±ГЄГўГ»" href="http://www.liogrand.ru/" target="_blank" >ГЈГ®Г±ГІГЁГ­ГЁГ¶Г» ГЊГ®Г±ГЄГўГ»</a> Г¶ГҐГ­Г» |
 
-срочная <a title="тонировка" href= "http://vipton.ru/" target="_blank" 
- >тонировка</a> автомобилей |
+Г±Г°Г®Г·Г­Г Гї <a title="ГІГ®Г­ГЁГ°Г®ГўГЄГ " href= "http://vipton.ru/" target="_blank" 
+ >ГІГ®Г­ГЁГ°Г®ГўГЄГ </a> Г ГўГІГ®Г¬Г®ГЎГЁГ«ГҐГ© |
 
-оформить <A title="разрешение на работу" href="http://www.migrator.ru/" target=_blank>разрешение на работу</A> в Москве  |
+Г®ГґГ®Г°Г¬ГЁГІГј <A title="Г°Г Г§Г°ГҐГёГҐГ­ГЁГҐ Г­Г  Г°Г ГЎГ®ГІГі" href="http://www.migrator.ru/" target=_blank>Г°Г Г§Г°ГҐГёГҐГ­ГЁГҐ Г­Г  Г°Г ГЎГ®ГІГі</A> Гў ГЊГ®Г±ГЄГўГҐ  |
 
 </p>
 
